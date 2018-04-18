@@ -200,7 +200,7 @@ bower_components/
 
 dist/
 build/
-lib/
+# lib/
 test/*.js
 test/*.map
 tmp/
